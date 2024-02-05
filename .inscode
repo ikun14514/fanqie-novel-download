@@ -1,4 +1,4 @@
-run = "pip install -r requirements.txt;python main.py"
+run = "pip install -r requirements.txt;cd src/assets/; python main.py"
 language = "python"
 
 [packager]
