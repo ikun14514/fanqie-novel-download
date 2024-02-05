@@ -26,12 +26,12 @@ from sys import exit
 version = "v2.9.0"
 
 # 检查EULA
-f.check_eula()
-f.clear_screen()
+#f.check_eula()
+#f.clear_screen()
 
 # 检查更新
-f.check_update(version)
-f.clear_screen()
+#f.check_update(version)
+#f.clear_screen()
 
 # 程序开始
 f.start()
